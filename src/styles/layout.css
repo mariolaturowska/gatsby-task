@@ -2,9 +2,8 @@ body {
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
-    height: 2000px;
-    width: 1800px;
-    overflow: auto;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 .navigation {
